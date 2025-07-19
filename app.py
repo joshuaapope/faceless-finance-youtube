@@ -1,10 +1,8 @@
 import streamlit as st
 import openai
 import requests
-from gtts import gTTS
 import os
 from io import BytesIO
-from pydub import AudioSegment
 
 st.title("📈 Faceless Finance YouTube Script & Voiceover Generator")
 
